@@ -1,5 +1,12 @@
 # Implement EventStore
 
+
+============================================================================
+
+### To access the documentation , see *HISTORY.md*
+
+============================================================================
+
 In this challenge, you will create a class that implements the `EventStore` 
 interface.
  
