@@ -12,11 +12,11 @@ public class Event {
         this.timestamp = timestamp;
     }
 
-    public String type() {
+    public String getType() {
         return type;
     }
 
-    public long timestamp() {
+    public long getTimestamp() {
         return timestamp;
     }
 }
